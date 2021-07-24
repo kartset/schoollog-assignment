@@ -25,7 +25,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-##This project was made using create-react-app
+## This project was made using create-react-app
 
 ## Learn More
 
